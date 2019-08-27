@@ -27,10 +27,10 @@ Go to http://localhost:8080/
 You need to have nodejs installed.
 
 ## Built With
-Express - Fast, unopinionated, minimalist web framework for Node.js
-Nunjucks - A rich and powerful templating language for JavaScript.
-RANDOM USER GENERATOR - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
-Bootstrap
+- Express - Fast, unopinionated, minimalist web framework for Node.js.
+- Nunjucks - A rich and powerful templating language for JavaScript.
+- RANDOM USER GENERATOR - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+- Bootstrap - An open source toolkit for developing.
 
 ## Authors
 Timothy ALCAIDE @oncletim
