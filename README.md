@@ -23,6 +23,11 @@ $ npm start
 ```
 Go to http://localhost:8080/
 
+## Routes
+- /users          
+- /users/female
+- /users/male
+
 ## Prerequisites
 You need to have nodejs installed.
 
