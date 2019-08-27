@@ -1,0 +1,26 @@
+{
+  "name": "projet-express",
+  "version": "1.0.0",
+  "description": "Mini projet express et nunjucks pour Kaliop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "api",
+    "random",
+    "user"
+  ],
+  "author": "Timothy ALCAIDE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-async-await": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "nunjucks": "^3.2.0",
+    "request": "^2.88.0"
+  }
+}

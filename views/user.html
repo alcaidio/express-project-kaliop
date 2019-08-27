@@ -1,0 +1,8 @@
+<div class="card m-3" style="width:250px">
+    <img class="card-img-top" src="{{ user.picture.large }}" alt="Card image">
+    <div class="card-body">
+        <h4 class="card-title">{{ user.name.first | capitalize}} {{ user.name.last | upper}}</h4>
+        <p class="card-text">Age : {{ user.dob.age}}</p>
+        <a href="mailto:{{ user.email }}?subject=Timothy va nous rejoindre chez Kaliop" class="btn btn-outline-secondary">Send email</a>
+    </div>
+</div>
