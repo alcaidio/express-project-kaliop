@@ -15,19 +15,22 @@ Créer un projet Express avec les fonctionalités suivantes:
 
 # Getting Started
 Go on your project folder
-git clone https://github.com/oncletim/express-project-kaliop.git
-cd express-project-kaliop
-npm install 
-npm start 
+```bash
+$ git clone https://github.com/oncletim/express-project-kaliop.git
+$ cd express-project-kaliop
+$ npm install 
+$ npm start 
+```
 Go to http://localhost:8080/
 
 ## Prerequisites
-You need to have nodejs in your computer
+You need to have nodejs installed.
 
 ## Built With
 Express - Fast, unopinionated, minimalist web framework for Node.js
 Nunjucks - A rich and powerful templating language for JavaScript.
 RANDOM USER GENERATOR - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+Bootstrap
 
 ## Authors
 Timothy ALCAIDE @oncletim
