@@ -1,6 +1,6 @@
 # express-project-kaliop
 The app shows 20 people by age growing at random and we can sort by genre
-![alt tag](https://github.com/oncletim/express-project-kaliop/screenshot.png)
+![screenshot](https://github.com/oncletim/express-project-kaliop/blob/master/screenshot.png)
 
 ## Subject
 Créer un projet Express avec les fonctionalités suivantes:
