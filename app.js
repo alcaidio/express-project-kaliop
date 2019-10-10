@@ -11,7 +11,6 @@ nunjucks.configure('views', {
   express   : app
 });
 
-
 app.get('/users', (req, res) => {
 	helper.data(url)
     .then(response => {
